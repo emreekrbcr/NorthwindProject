@@ -1,5 +1,5 @@
 # NorthwindProject
-This is a .NET Core Back-End project with N-Tier architecture and SOLID, OOP and AOP techniques.
+This is a .NET Core Back-End project with N-Tier Architecture, SOLID, OOP and AOP techniques.
 
 Bu proje geliştirilme aşamasındadır. Projeye yakın zamanda yeni özellikler eklenecek, front-end tarafı da eklenecek ve metodlar asenkron hale getirilecektir.
 
